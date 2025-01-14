@@ -85,6 +85,7 @@ def normalRemover(list):
             finalData[2][0].append(pokeTypes[i])
             finalData[2][1].append(typeColors[i])
             finalData[2][2].append(typeIcons[i])
+            
     valueDisplay(finalData)
 
 
