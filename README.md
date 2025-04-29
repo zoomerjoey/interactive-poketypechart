@@ -3,7 +3,7 @@ supports mono and dual types (for mono simply click the same type again)
 to reselect types, click the banner of the type would like to reselect
 
 requires cmu-graphics to work if your cloning the repo, to install use
-pip install cmu-graphics
+`pip install cmu-graphics`
 
 
 # copywrite things
